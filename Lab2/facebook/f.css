@@ -1,0 +1,129 @@
+#facebook{
+    height: 106px;
+    margin: -28px;
+    padding-left: 6cm;
+    padding-top: 5cm;
+    position: absolute;
+}
+h1{
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    padding-left: 6cm;
+    padding-top: 6.5cm;
+    font-weight: normal;
+    position: absolute;
+    font-size: 1.7em;
+}
+body{
+    background-color: rgb(239, 242, 245);
+}
+input[type="text"], input[type="password"], input[type="submit"]{
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(219, 221, 223);
+    padding:14px 100px;
+    padding-left: 0.3cm;
+    font-size: 13pt;
+    width: 96%;
+}
+input[type="submit"]{
+    background-color: rgb(26, 126, 248);;
+    padding: 14px 168px;
+    text-align: center;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+}
+input[type="submit"]:hover{
+    background-color: rgb(52, 109, 221);
+}
+div#form{
+    margin-left: 22cm;
+    margin-top: 3cm;
+    background-color: rgb(255, 255, 255);
+    width: 10.6cm;
+    padding-left: 0.5cm;
+    border-radius: 10px;
+    height: 9.4cm;
+    padding-top: 0.001cm;
+    position: absolute;
+    box-shadow: 0 4px 8px 0 rgb(219, 221, 223);
+}
+a#forgot{
+    color: rgb(58, 118, 234);
+    text-decoration: none;
+    margin-left: 3.5cm;
+    font-weight: normal;
+}
+hr#input{
+    color: rgb(201, 201, 201);
+    width: 10cm;
+    margin-right: 2.7cm;
+}
+a#account{
+    padding: 14px 60px;
+    text-decoration: none;
+    font-weight: normal;
+    font-family:'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    margin-left: 1.9cm;
+    margin-top: 0.2cm;
+    position: absolute;
+    border-radius: 6px;
+    background-color: rgb(101, 181, 67);
+    color: white;
+}
+a#account:hover{
+    background-color: rgb(87, 162, 57);
+}
+h3{
+    margin-left: 23cm;
+    margin-top: 13cm;
+    position: absolute;
+}
+em#low{
+    font-style: normal;
+    font-weight: lighter;
+}
+a#create{
+    text-decoration: none;
+    color: black;
+}
+a#create:hover{
+    text-decoration-line: underline;
+}
+div#bot{
+    padding: 1cm 6cm;
+    height: 4cm;
+    width: 27.994cm;
+    margin-top: 20cm;
+    background-color: white;
+    position: absolute;
+    font-size: medium;
+}
+button#plus{
+    padding-bottom: 0.6cm;
+    font-size: large;
+    font-weight:bold;
+    color: rgb(102, 102, 112);
+    border-color: rgb(219, 221, 223);
+    border-style: solid;
+    height: 0.6cm;
+    border-radius: 0.1cm;
+    width: 0.8cm;
+}
+hr#bottom{
+    margin-left: 0.4cm;
+}
+a#bott{
+    text-decoration: none;
+    color: rgb(139, 141, 145);
+    font-size: 0.4cm;
+    margin-left: 0.4cm;
+}
+em#Meta{
+    color: rgb(139, 141, 145);
+    font-style: normal;
+    margin-left: 0.4cm;
+}
+a#bott:hover{
+    text-decoration: underline;
+}
