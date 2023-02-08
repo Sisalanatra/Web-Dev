@@ -88,3 +88,24 @@ a#sing{
     color: rgb(41, 137, 172);
     text-decoration: none;
 }
+div#form3{
+    margin-left: 22cm;
+    margin-top: 14.5cm;
+    padding-left: 1.4cm;
+    padding-right: 1.2cm;
+    height: 60px;
+    width: 250px;
+    position: absolute;
+}
+#ios{
+    height: 40px;
+    position: absolute;
+    padding-left: 20cm;
+    padding-top: 16cm;
+}
+#and{
+    height: 40px;
+    position: absolute;
+    padding-left: 26cm;
+    padding-top: 16cm;
+}
