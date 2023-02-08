@@ -84,3 +84,7 @@ div#form2{
     width: 250px;
     position: absolute;
 }
+a#sing{
+    color: rgb(41, 137, 172);
+    text-decoration: none;
+}
