@@ -109,3 +109,30 @@ div#form3{
     padding-left: 26cm;
     padding-top: 16cm;
 }
+div#bot{
+    padding: 1cm 6cm;
+    height: 3cm;
+    width: 27.994cm;
+    margin-top: 18cm;
+    position: absolute;
+}
+a#bott{
+    text-decoration: none;
+    color: rgb(139, 141, 145);
+    font-size: 12;
+    margin-left: 0.4cm;
+}
+select{
+    border-style: hidden;
+    background-color: rgb(250, 250, 250);
+    color: rgb(139, 141, 145);
+    font-size: 12;
+    margin-left: 10cm;
+    margin-top: 0.5cm;
+}
+em#meta{
+    color: rgb(139, 141, 145);
+    font-style: normal;
+    margin-left: 0.4cm;
+    font-size: 12;
+}
