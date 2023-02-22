@@ -9,8 +9,9 @@ import { products } from '../products';
 })
 export class ProductListComponent {
   products = products;
-  share() {
-    window.open();
+  share(url: string) {
+    var link = url;
+    window.open(url);
   }
   onNotify() {
     window.alert('You are notified!');
